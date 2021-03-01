@@ -14,8 +14,16 @@ Tronscan.org url: https://tronscan.org/#/token20/TKGsnjASoZ9jBEcjM1gThwu8WHQbVWw
 
 Total Supply: 500,000,000 ABHTV
 
+------------------------------------------------------------------------------------
+
 Available only via swap for $TRX
 
-on the Tron Exchange JUSTSWAP.ORG  - Liquidity Pool:
+on the Tron Exchange:
+
+JUSTSWAP.ORG   
+
+Currency Pair: 
+
+(ABHTV/TRX)
 
 https://justswap.org/?lang=en-US#/scan/detail/trx/TKGsnjASoZ9jBEcjM1gThwu8WHQbVWw5E1
